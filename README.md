@@ -1,7 +1,7 @@
 # Digital-Design-of-3-wheel-Electric-Vehicle-
-Project under Team Trinity, SAE Collegiate Club, IIT(BHU) for EnCode Competition, UDGAM 2023. This is based on design, hand-in calculation, and validation of hand-in calculation through MATLAB.
+Project under Team Trinity, SAE Collegiate Club, IIT(BHU) for EnCode Competition, UDGAM 2023. This is based on design, hand-in calculation, and validation of hand-in calculation through MATLAB. My Team Trinity, won first place in the EV segment of the EnCode Competition.
 
-* **Designing** - I contributed to skateboard chassis design in SOLIDWORKS. Since this is an innovation in the chassis of EVs, so we go ahead with this.
+* **Designing** - I contributed to skateboard chassis design in SOLIDWORKS. Since this is an innovation in the chassis of EVs, we go ahead with this.
 
 ![image](https://github.com/nk-16/Digital-Design-of-3-wheel-Electric-Vehicle-/assets/128499808/e364cb34-5e93-4cfd-9437-e42f54591911)
 
